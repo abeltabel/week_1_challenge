@@ -194,7 +194,8 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-footer h2 {
+/*Changed the footer from h2 to h4 in html and had to make
+ the change in css to keep styling*/
+footer h4 {
     font-size: 20px;
 }
